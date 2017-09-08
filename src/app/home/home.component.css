@@ -6,7 +6,8 @@ padding-left: 1cm;
 }
 .container{
     background-image:url("../image/k.png");
-    background-repeat: repeat-y;    
+    background-repeat: no-repeat;   
+  
 }
 .jedi{
     color: white;
